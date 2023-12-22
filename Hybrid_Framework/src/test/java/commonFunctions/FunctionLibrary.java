@@ -280,19 +280,19 @@ public static String generateDate()
 }
 public void add()
 {
-	int a=45,b=6,c;
+	int a=6565,b=7,c;
 	c=a+b;
 	System.out.println(c);
 }
 public void div()
 {
-	int a=6565,b=6,c;
+	int a=5678,b=43,c;
 	c=a/b;
 	System.out.println(c);
 }
 public void mul()
 {
-	int a=5678,b=7,c;
+	int a=6565,b=78,c;
 	c=a*b;
 	System.out.println(c);
 }
